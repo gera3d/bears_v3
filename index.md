@@ -4,10 +4,6 @@
 ## A Revolutionary Learning Experience
 Project Bears is a revolutionary platform that combines the power of storytelling with interactive learning. Our innovative approach introduces children to the world of entrepreneurship, fostering creative thinking, problem-solving skills, and a can-do attitude.
 
-{% include feature.html image="https://placekitten.com/2000/600" title="The Books" description="Our books weave engaging tales of child entrepreneurs venturing into various industries, teaching kids about idea generation, market research, product development, and customer relations. We aim to distribute these books for free through schools, libraries, and community centers." %}
-
-{% include feature.html image="https://placekitten.com/2000/600" title="The Interactive App" description="The Project Bears app complements the books by offering an interactive learning experience. Users can create and customize their own avatars, make decisions that shape the story's outcome, and learn about business principles through game-based techniques." %}
-
 ## Distribution and Partnerships
 We're leveraging various channels, such as schools, libraries, parent-teacher associations, and organizations in the technology and entrepreneurship sectors, to distribute our books and promote the app.
 
