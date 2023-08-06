@@ -1,3 +1,18 @@
+<!-- Shuffle Wrapper Placeholder -->
+<div class="shuffle-wrapper">
+    <!-- Sample Shuffle Items -->
+    <div class="shuffle-item">
+        <p>Sample Item 1</p>
+    </div>
+    <div class="shuffle-item">
+        <p>Sample Item 2</p>
+    </div>
+    <div class="shuffle-item">
+        <p>Sample Item 3</p>
+    </div>
+    <!-- Add more shuffle items as needed -->
+</div>
+
 # {{ page.title }}
 ![Adventure Scene]({{ page.cover-img }})
 
