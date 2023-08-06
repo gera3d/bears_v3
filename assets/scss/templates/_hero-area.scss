@@ -1,6 +1,8 @@
 .hero-area {
   padding: 300px 0 200px;
   position: relative;
+  background-size: cover; /* This will scale the image to cover the element */
+
   @include tablet {
     padding: 250px 0 150px;
     overflow: hidden;
