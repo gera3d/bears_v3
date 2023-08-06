@@ -4,4 +4,3 @@ gem 'jekyll'
 gem 'jekyll-sitemap'
 gem 'wdm', '>= 0.1.0'
 gem "webrick", "~> 1.7"
-gem "github-pages", group: :jekyll_plugins
